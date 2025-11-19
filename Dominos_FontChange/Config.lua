@@ -83,7 +83,6 @@ local function NewSlider(parent, name, min, max, step, getFunc, setFunc, lastWid
 end
 
 -- Helper: Create Color Picker Button
--- Helper: Create Color Picker Button
 local function NewColorPicker(parent, name, getFunc, setFunc, lastWidget)
     local button = CreateFrame("Button", nil, parent)
     button:SetSize(16, 16)
