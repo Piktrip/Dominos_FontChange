@@ -11,8 +11,6 @@ function ns.GetLSM()
     return ns.LSM
 end
 
--- ... (rest of file)
-
 --- Fetch the font path from LibSharedMedia or return default
 -- @param name The name of the font
 -- @return The file path to the font
