@@ -1,0 +1,12 @@
+## Interface: 110205
+## Title: Dominos FontChange
+## Notes: Adjust Dominos button font sizes (hotkeys / macro labels / stack counts)
+## Author: Pikheat
+## Version: 1.0
+## Dependencies: Dominos
+## OptionalDeps: LibSharedMedia-3.0
+## SavedVariables: DominosFontChangeDB
+
+Utils.lua
+Core.lua
+Config.lua
